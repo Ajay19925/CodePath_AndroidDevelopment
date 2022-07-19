@@ -1,8 +1,8 @@
-# Android Prework - *HelloWorld*
+# Android Prework - *FirstAndroidApp*
 
 Submitted by: **Ajay Balaji D**
 
-**HelloWorld** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
+**FirstAndroidApp** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
 Time spent: **8** hours spent in total
 
@@ -16,7 +16,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [X] Changed App name from 'HelloWorld' to 'FirstAndroidApp'
 
 ## Video Walkthrough
 
